@@ -1,6 +1,24 @@
-# myapp
+# 📱 Namer App 💻
 
-A new Flutter project.
+This is my first flutter project.
+
+Here simply create awesome new words for fun! 
+Note that this was inspired from <a href="https://flutter.dev/">flutter's</a> demo app: 
+<a href="https://github.com/flutter/codelabs/tree/main/namer/step_08">https://github.com/flutter/codelabs/tree/main/namer/step_08</a>
+
+## 💡 Features
+
+- **Create new words:** Open the app, and click `Next` button for new words.
+
+- **Accessible for screen readers:** The words are paired, so the sreen reader might pronounce it incorrectly, so it's made sure that they say the pair separately.
+
+- **Smooth design (from metarial3):** Thanks to flutter and material 3, the app has a beautiful smooth design without too much styling manually.
+
+- **Liking a word:** Tap `♡ Like` for adding it to favourite list.
+
+- **Saving the liked word:** It's not saved on your storage, so it'll be romoved when you close the app. I'm working to save it locally.
+
+- **Customizing the theme:** Tap 🎨 at the top right corner, and simply select the app's theme color.
 
 ## Getting Started
 
