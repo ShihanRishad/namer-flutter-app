@@ -20,7 +20,9 @@ Note that this was inspired from <a href="https://flutter.dev/">flutter's</a> de
 
 - **Customizing the theme:** Tap 🎨 at the top right corner, and simply select the app's theme color.
 
-## Getting Started
+
+
+## 🚀 Getting Started
 
 This project is a starting point for a Flutter application.
 
