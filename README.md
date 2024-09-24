@@ -21,7 +21,7 @@ Note that this was inspired from <a href="https://flutter.dev/">flutter's</a> de
 - **Customizing the theme:** Tap 🎨 at the top right corner, and simply select the app's theme color.
 
 
-[![Example](screenshot.jpg)](preview.mp4)
+<a href="https://namer-flutter-app.vercel.app/"><img src="screenshot.jpg"></a>
 
 
 
