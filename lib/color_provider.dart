@@ -17,7 +17,7 @@ import 'package:flutter/material.dart';
      showDialog(
        context: context,
        builder: (context) => AlertDialog(
-         title: const Text('Pick a color!'),
+         title: const Text('Set app theme color:'),
          content: SingleChildScrollView(
            child: ColorPicker(
              pickerColor: _primaryColor,
@@ -27,7 +27,7 @@ import 'package:flutter/material.dart';
          ),
          actions: <Widget>[
            TextButton(
-             child: const Text('Got it'),
+             child: const Text('Done'),
              onPressed: () {
                Navigator.of(context).pop();
              },
